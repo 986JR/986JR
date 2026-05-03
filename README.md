@@ -1,24 +1,110 @@
-# 💫 About Me:
-Software Engineer | Backend Enthusiast<br><br>I build scalable and secure backend systems with a strong focus on performance and clean architecture. Passionate about turning ideas into real-world applications through code.<br><br>Tech Stack:<br>• Java & Spring Boot<br>• RESTful API Design<br>• SQL & Database Management<br>• JavaScript<br><br> Currently focused on backend development, system design, and building production-ready applications.<br><br>Connect with me:<br>• GitHub: https://github.com/986JR<br>• Instagram: https://www.instagram.com/j.___r9/<br>• TikTok: https://www.tiktok.com/@smerck9<br>
+<!-- HEADER -->
 
+<h1 align="center">Hi, I'm Joshua</h1>
+<h3 align="center">Software Engineer | Backend Specialist</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.instagram.com/j.___r9/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@smerck9) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@JOSHUA RODGERS) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuaridgers986@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=986JR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=986JR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=986JR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=986JR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=986JR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/986JR"><img src="https://img.shields.io/badge/GitHub-986JR-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.instagram.com/j.___r9/"><img src="https://img.shields.io/badge/Instagram-@j.___r9-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@smerck9"><img src="https://img.shields.io/badge/TikTok-@smerck9-000000?style=for-the-badge&logo=tiktok"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=986JR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  About Me
+
+```yaml
+Name: Joshua
+Role: Backend Engineer
+Focus: Scalable Systems & Secure APIs
+Philosophy: Clean Architecture + Performance First
+```
+
+ I design and build **scalable, secure backend systems** with a strong focus on performance and maintainability.
+⚙️ I enjoy transforming ideas into **production-ready applications** through structured engineering and clean code practices.
+
+---
+
+##  Tech Stack
+
+### Core Backend
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+</p>
+
+### Supporting Tech
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+</p>
+
+### Dev Tools & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=986JR&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=986JR&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=986JR&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=986JR&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=986JR&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:joshuaridgers986@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/j.___r9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@smerck9"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=986JR&color=blueviolet&style=flat-square"/>
+</p>
+
+<!-- Clean, minimal, senior-level aesthetic -->
