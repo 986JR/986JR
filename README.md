@@ -11,10 +11,10 @@
 
 ---
 
-##  About Me
+##  About Me 
 
 ```yaml
-Name: Joshua
+Name: Joshua Rodgers
 Role: Backend Engineer
 Focus: Scalable Systems & Secure APIs
 Philosophy: Clean Architecture + Performance First
