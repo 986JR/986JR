@@ -25,9 +25,9 @@ Philosophy: Clean Architecture + Performance First
 
 ---
 
-##  Tech Stack
+##  Tech Stack.
 
-### Core Backend
+### Core Backend.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -43,7 +43,7 @@ Philosophy: Clean Architecture + Performance First
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
 </p>
 
-### Supporting Tech
+### Supporting Tech.
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
@@ -54,7 +54,7 @@ Philosophy: Clean Architecture + Performance First
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
 </p>
 
-### Dev Tools & Deployment
+### Dev Tools & Deployment.
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
