@@ -96,7 +96,7 @@ Philosophy: Clean Architecture + Performance First
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:joshuaridgers986@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:joshua@smerck.info"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/j.___r9/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@smerck9"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/></a>
 </p>
